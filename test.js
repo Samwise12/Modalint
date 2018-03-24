@@ -60,5 +60,5 @@ compute(3, [0,1,2,3,4]); //[0,0.5,1,2,3]
 // Hence, the avg would then provide the sought after output array of [0,0.5,1,2,3]. 
 // I've tested various cases ,and this appears to be the correct solution.
 
-// This code takes up O(N) time and O(n) space
+// This code takes up O(N) time and O(N) space
 
